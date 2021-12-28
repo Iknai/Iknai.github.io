@@ -1,3 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Kumbh Sans', sans-serif;
+  transition: all .2s linear;
+}
+
+
 /* Navigation Bar*/
 .navbar {
   background: #131313;
@@ -20,6 +29,7 @@
   max-width: 1300px;
   margin: 0 auto;
   padding: 0 50px;
+  align-items: center;
 }
 
 #navbar__logo {
@@ -722,5 +732,5 @@
   margin: 0 10px;
 }
 .buttons a{
-  color: #FCBA7F;
+  color: 131313;
 }
