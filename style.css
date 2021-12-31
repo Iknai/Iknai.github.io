@@ -96,6 +96,7 @@
 .navbar__links:hover {
   color: #11998e;
   transition: all 0.3s ease;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 960px) {
